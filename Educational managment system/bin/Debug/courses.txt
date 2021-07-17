@@ -1,0 +1,3 @@
+name,code,password,pre,doctor_id,limit,occupied
+programming,cs51,,cs50,,,
+,cs50,,,,,

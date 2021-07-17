@@ -1,0 +1,6 @@
+username,password,type
+ashraf,123456,s
+
+ahmed,111,d
+mai,123,d
+amr,0000,s

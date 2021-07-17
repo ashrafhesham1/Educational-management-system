@@ -1,0 +1,2 @@
+course,announcment
+cs50,new assignment availble

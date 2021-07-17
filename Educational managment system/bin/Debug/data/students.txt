@@ -1,0 +1,3 @@
+id,username,fullname,email
+0,ashraf,ashraf hesham,ashraf@gmail.com
+1,amr,amr hady,amr@gmail.com

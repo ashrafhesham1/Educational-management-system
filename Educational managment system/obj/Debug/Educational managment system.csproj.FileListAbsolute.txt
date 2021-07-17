@@ -1,0 +1,7 @@
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\bin\Debug\Educational managment system.exe.config
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\bin\Debug\Educational managment system.exe
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\bin\Debug\Educational managment system.pdb
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\obj\Debug\Educational managment system.exe
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\obj\Debug\Educational managment system.pdb
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\obj\Debug\Educational managment system.csproj.AssemblyReference.cache
+D:\projects\C#\Educational managment system\Educational managment system\Educational managment system\obj\Debug\Educational managment system.csproj.CoreCompileInputs.cache

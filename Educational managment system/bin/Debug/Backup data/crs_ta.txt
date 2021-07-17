@@ -1,0 +1,3 @@
+course,ta,approve,assignment
+cs11,1,0,1
+cs12,1,0,1

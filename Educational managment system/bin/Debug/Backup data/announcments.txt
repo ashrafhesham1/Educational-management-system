@@ -1,0 +1,2 @@
+course,announcment
+cs12,new assignment available

@@ -1,0 +1,8 @@
+code,name,password,pre,doctor,limit,occupied
+cs11,programming,p111,null,100000,0,2
+cs12,oop,o111,cs11,100001,100,1
+cs50,introduction to computer science,i111,,100003,250,0
+cs86,computer archticture,c111,cs50,100002,50,0
+cs100,operating systems 1,o111,cs50,100001,100,0
+cs101,operating systems 2,o111,cs100,100002,100,0
+cs5,english,e111,cs50,100000,0,0

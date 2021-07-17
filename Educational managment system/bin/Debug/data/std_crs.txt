@@ -1,0 +1,2 @@
+student,course,graduate,grade
+0,cs50,false,-1

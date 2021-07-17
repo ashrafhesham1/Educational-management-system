@@ -1,0 +1,9 @@
+username,password,type
+ashraf,123456,s
+mohamed,4444,d
+ahmed,1111,t
+khaled,0011,s
+amy,3333,d
+ahmed12,0000,d
+amina3,0000,d
+mai,0123,t

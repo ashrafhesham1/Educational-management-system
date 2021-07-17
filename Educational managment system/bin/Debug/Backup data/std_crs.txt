@@ -1,0 +1,6 @@
+student,course,graduate,grade
+1000,cs11,false,-1
+1000,cs12,false,-1
+1001,cs11,false,-1
+1000,cs50,false,-1
+1001,cs50,false,-1

@@ -1,0 +1,2 @@
+code,name,password,pre,doctor,limit,occupied
+cs50,computer science,c111,null,2,100,1

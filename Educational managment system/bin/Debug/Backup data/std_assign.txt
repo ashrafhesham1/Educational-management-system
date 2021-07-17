@@ -1,0 +1,6 @@
+student,assignment,answer,grade
+1001,cs11a1,answer link,15
+1000,cs11a2,aaa,5
+1000,cs11a1,my answer,15
+1000,cs12a1,the answer,5
+1000,cs12a2,the implementation,-1

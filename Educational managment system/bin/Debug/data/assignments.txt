@@ -1,0 +1,2 @@
+code,name,course,deadline,fullmark,num_of_questions,content
+cs50a1,calc,cs50,8/30/2021 12:00:00 AM,20,1,design calculator

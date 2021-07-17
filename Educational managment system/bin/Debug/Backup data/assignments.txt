@@ -1,0 +1,5 @@
+code,name,course,deadline,fullmark,num_of_questions,content
+cs11a1,hotel system,cs11,7/20/2021,20,2,design hotel system*make a documentation
+cs11a2,E.M system,cs11,8/20/2021,25,1,the implemintation
+cs12a1,snake game,cs12,7/30/2021,20,1,make a console snake game
+cs12a2,compiler,cs12,8/30/2021 12:00:00 AM,20,2,implemnt it*presentation
